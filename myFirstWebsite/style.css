@@ -1,0 +1,70 @@
+body {
+    background-image: url('assets/topography.png');
+    font-family: monospace;
+    font-size:larger;
+    text-align: justify;
+    font-weight: 120%;
+    
+
+    
+}
+#logo {
+    float: left;
+    width: 70px;
+    height: 70px;
+    opacity: 60%;
+    
+}
+ ul {
+    color: red;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(59, 55, 55);
+    text-align: right;
+    height: 80px;
+    
+  }
+
+  a{
+    color: rgb(175, 13, 167);
+}
+
+li {
+    color: rgb(175, 13, 167);
+    display: inline-block;
+    padding: 15px ;
+    font-size: 30px;
+    margin: auto;
+    margin-right: 30px;
+    
+}
+
+p,h1,h2,h3 {
+    height: 80%;
+    width:  80%;
+    
+    margin: 30px 30Px 30px 10px;
+    margin-bottom: 10px;
+}
+.div {
+    text-align: center;
+}
+.wiki {
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    margin-top: 15px;
+}
+.pink {
+    color: rgb(175, 13, 167);
+}
+#header, #wiki {
+    margin-left: 100px;
+    margin-top: 140px;
+}
+
+#bottom {
+    margin-bottom: 20%;
+    text-align: center;
+}
+
